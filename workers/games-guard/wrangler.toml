@@ -1,0 +1,16 @@
+name = "games-guard"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[r2_buckets]]
+binding = "GAMES_BUCKET"
+bucket_name = "games-blrssco"
+
+[vars]
+ALLOWED_DOMAINS = "blrssco.com,x-clash.net,colorblockjam.pro"
+REDIRECT_URL = "https://blrssco.com"
+
+# Route: intercept all requests to games.blrssco.com
+routes = [
+  { pattern = "games.blrssco.com/*", zone_name = "blrssco.com" }
+]

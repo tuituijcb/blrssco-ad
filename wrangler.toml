@@ -1,0 +1,15 @@
+name = "h5-games-hub"
+compatibility_date = "2024-12-19"
+
+# Pages 构建配置
+pages_build_output_dir = "dist"
+
+# Node.js 兼容性支持
+compatibility_flags = ["nodejs_compat"]
+
+# R2存储桶配置
+[[r2_buckets]]
+binding = "GAMES_BUCKET"
+bucket_name = "games-blrssco"
+
+ 

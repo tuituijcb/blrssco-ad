@@ -1,0 +1,89 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+ # SEO Rules for Next.js 14
+
+## 1. Page Basics
+- Each page should have a unique and meaningful `<title>` and `<meta name="description">`.
+- Use Next.js's `Head` component or the `metadata` configuration for setting meta tags.
+- Example:
+
+```tsx
+// In your page file
+import Head from 'next/head';
+
+export default function Page() {
+  return (
+    <>
+      <Head>
+        <title>Page Title | Site Name</title>
+        <meta name="description" content="Page description here" />
+        <meta name="keywords" content="keyword1,keyword2" />
+      </Head>
+      {/* Page content */}
+    </>
+  );
+}
+```
+- The title should not exceed 60 characters.
+- The description should not exceed 160 characters.
+- The keywords should not exceed 100 characters.
+- Each page must include a canonical tag pointing to the standard URL.
+- When creating a new page, always confirm the canonical URL with the user.
+- All canonical tags must point to the www domain (e.g., https://www.example.com/your-page).
+
+## 2. Structured Data
+- Use JSON-LD format for structured data to help search engines better understand your content.
+- Example:
+
+```tsx
+<Head>
+  <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Site Name',
+    url: 'https://yourdomain.com',
+  }) }} />
+</Head>
+```
+
+## 3. Image Optimization
+- All images should have descriptive `alt` attributes.
+- Use Next.js's `next/image` component for automatic image optimization.
+
+## 4. Semantic HTML
+- Use semantic tags like `<header>`, `<nav>`, `<main>`, `<footer>`, `<article>`, and `<section>` to improve accessibility and SEO.
+
+## 5. robots.txt and sitemap.xml
+- Add `robots.txt` and `sitemap.xml` to your project root to guide search engine crawling.
+- Use third-party packages like `next-sitemap` to generate sitemaps automatically.
+
+## 6. SSR Advantage (Server-Side Rendering)
+- Keep SSR enabled; avoid using `output: 'export'` for static export.
+- SSR helps search engines crawl and index your content more effectively.
+
+## 7. Vercel Deployment Notes
+- When deploying to Vercel, ensure static export is not enabled.
+- Use Next.js's `redirects()` function and `vercel.json` for proper redirects to avoid 404 errors.
+
+## 8. Other Suggestions
+- Ensure fast page load and optimize Core Web Vitals.
+- All links should be crawlable (avoid JS-only navigation).
+- For multilingual sites, set the `hreflang` attribute.
+
+## 9. Do Not Use 'use client' for Entire Pages
+- Do not place 'use client' at the top of a page file. This will make the whole page client-side rendered, disabling SSR and harming SEO.
+- Only use 'use client' in components that require client-side interactivity, not at the page level.
+- Full client-side rendering prevents search engines from properly indexing your content and reduces SEO effectiveness.
+
+## 10. Article Writing Guidelines
+- Maintain keyword density between 4-5% for target keywords.
+- Use a rich heading structure: include multiple H2, H3, H4, and even H5 headings for clarity.
+- Ensure the article structure is clear and easy to follow.
+- Use plain, easy-to-understand language; avoid overly formal or academic vocabulary.
+
+---
+
+> These rules are intended for Next.js 14 projects. Please refer to them during team development.

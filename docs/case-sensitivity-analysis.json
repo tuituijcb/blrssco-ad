@@ -1,0 +1,2210 @@
+{
+  "totalIcons": 366,
+  "exactCaseMatches": 308,
+  "differentCaseMatches": 21,
+  "noMatches": 37,
+  "iconFileCaseMatches": 354,
+  "iconFileCaseDifferences": 0,
+  "caseAnalysis": [
+    {
+      "icon": "shooting",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "sort",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "boomBlast",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "merge",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "findDifference",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "match3",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "parkingCar",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "towerDefense",
+      "folder": "towerDefense",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "music",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "puzzle",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "ball",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "running",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "connect",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": false
+    },
+    {
+      "icon": "alien_attack",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Galaga_Assault",
+      "folder": "Galaga_Assault",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Galaxy_Attack",
+      "folder": "Galaxy_Attack",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Galaxy_War",
+      "folder": "Galaxy_War",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Germ_War",
+      "folder": "germ_war",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Meteorite_Shooter",
+      "folder": "Meteorite_Shooter",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Shootero",
+      "folder": "Shootero",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "space_attack",
+      "folder": "space_attack",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Space_Shooter",
+      "folder": "Space_Shooter",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Galaxy_War",
+      "folder": "Galaxy_War",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BallSortPuzzle",
+      "folder": "BallSortPuzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Hexagon_Block_Sort",
+      "folder": "Hexagon_Block_Sort",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MarketSort",
+      "folder": "MarketSort",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "rope-color-sort-3d",
+      "folder": "rope-color-sort-3d",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "GoodSortMaster",
+      "folder": "GoodSortMaster",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "WaterSort",
+      "folder": "WaterSort",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BallSortMaster",
+      "folder": "BallSortMaster",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CocktailSort",
+      "folder": "CocktailSort",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "LiquidsSort",
+      "folder": "LiquidsSort",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Bird_Sort-main",
+      "folder": "Bird_Sort-main",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Star_Boom",
+      "folder": "Star_Boom",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Zoo_Boom",
+      "folder": "Zoo_Boom",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Epic_Blocollapse",
+      "folder": "Epic_Blocollapse",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "The_Pets_Rush",
+      "folder": "The_Pets_Rush",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Bear_Boom",
+      "folder": "Bear_Boom",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Jelly_Boom",
+      "folder": "Jelly_Boom",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Puppy_Blast",
+      "folder": "Puppy_Blast",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Amazing-bubble-breaker",
+      "folder": "Amazing-bubble-breaker",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PowerPopBlast",
+      "folder": "PowerPopBlast",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "RoyalCrownBlast",
+      "folder": "RoyalCrownBlast",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Merge_Tanks",
+      "folder": "Merge_Tanks",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Merge_World",
+      "folder": "Merge_World",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Merge_Battle",
+      "folder": "Merge_Battle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Merge_love",
+      "folder": "Merge_love",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Merge_Gun_Elite_Shooting",
+      "folder": "Merge_Gun_Elite_Shooting",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MergeAttack",
+      "folder": "MergeAttack",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Dinosaurs",
+      "folder": "Dinosaurs",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Dream_Home_Merge_Design",
+      "folder": "Dream_Home_Merge_Design",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "StickMerge",
+      "folder": "StickMerge",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "merge-heroes-fix",
+      "folder": "merge-heroes-fix",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Find_Difference_2024",
+      "folder": "Find_Difference_2024",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Find_500_Difference",
+      "folder": "Find_500_Difference",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Find_Differences",
+      "folder": "Find_Differences",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Differences_Find",
+      "folder": "Differences_Find",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Find_A_Difference",
+      "folder": "Find_A_Difference",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Difference_Fun",
+      "folder": "Difference_Fun",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SpotDiffers",
+      "folder": "SpotDiffers",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FindTheDifferenceFovere",
+      "folder": "FindTheDifferenceFovere",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FindTheDifferenceBest",
+      "folder": "FindTheDifferenceBest",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Spot-the-differences",
+      "folder": "Spot-the-differences",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "match-arena",
+      "folder": "match-arena",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ForgottenTreasure2",
+      "folder": "ForgottenTreasure2",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BuildingAHouse",
+      "folder": "BuildingAHouse",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "OceanBlastMatch3",
+      "folder": "OceanBlastMatch3",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DiamondDungeon",
+      "folder": "DiamondDungeon",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "garden-bloom",
+      "folder": "garden-bloom",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "candyCrush",
+      "folder": "candyCrush",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Jewels_Blitz_6",
+      "folder": "Jewels_Blitz_6",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CandyBlast",
+      "folder": "CandyBlast",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Kitty_Jewel_Quest",
+      "folder": "Kitty_Jewel_Quest",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Bus_Driving",
+      "folder": "Bus_Driving",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Parking_Fury",
+      "folder": "Parking_Fury",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Bus_Parking_King",
+      "folder": "Bus_Parking_King",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "crazy_parking",
+      "folder": "crazy_parking",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MoveTheCar",
+      "folder": "MoveTheCar",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Parking_Ace_3d",
+      "folder": "Parking_Ace_3d",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ParkingOut",
+      "folder": "ParkingOut",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Parking_Slot",
+      "folder": "Parking_Slot",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Pocket_Parking",
+      "folder": "Pocket_Parking",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "parkmania",
+      "folder": "parkmania",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ArtOfDefense",
+      "folder": "ArtOfDefense",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DrawTheDefense",
+      "folder": "DrawTheDefense",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DefenderMaster1",
+      "folder": "DefenderMaster1",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "endlessseige",
+      "folder": "endlessseige",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Tower_Defense_Battle",
+      "folder": "Tower_Defense_Battle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "tower-defense-mingling",
+      "folder": "tower-defense-mingling",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Cube_Tower",
+      "folder": "Cube_Tower",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "towerDefense",
+      "folder": "towerDefense",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TowerDefenseYandex",
+      "folder": "TowerDefenseYandex",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TowerDefenseGalaxy",
+      "folder": "TowerDefenseGalaxy",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Music_Line_3D",
+      "folder": "Music_Line_3D",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Magic_Tiles3_Online_Z",
+      "folder": "Magic_Tiles3_Online_Z",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PianoTitle",
+      "folder": "PianoTitle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Pinao_Keys",
+      "folder": "Pinao_Keys",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Music_Surf_Christmas",
+      "folder": "Music_Surf_Christmas",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Piano_Music_Tiles",
+      "folder": "Piano_Music_Tiles",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Perfect_Piano_2",
+      "folder": "Perfect_Piano_2",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BlobOpera",
+      "folder": "BlobOpera",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Dance_Battle",
+      "folder": "Dance_Battle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Piano_Fire",
+      "folder": "Piano_Fire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "One_Connect-main",
+      "folder": "One_Connect-main",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "king-of-mahjong",
+      "folder": "king-of-mahjong",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Monster-duo",
+      "folder": "Monster-duo",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "onet-paradise",
+      "folder": "onet-paradise",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "onet-fruit-classic",
+      "folder": "onet-fruit-classic",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "onet-world",
+      "folder": "onet-world",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "butterfly-shimai",
+      "folder": "butterfly-shimai",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Christmas_Connect",
+      "folder": "Christmas_Connect",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Tile_Connect",
+      "folder": "Tile_Connect",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Onet_Link",
+      "folder": "Onet_Link",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "blockup-puzzle",
+      "folder": "blockup-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "bubble-up",
+      "folder": "bubble-up",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "car-out",
+      "folder": "car-out",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "food-puzzle",
+      "folder": "food-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fruits-slot-machine",
+      "folder": "fruits-slot-machine",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "kids-alphabet",
+      "folder": "kids-alphabet",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "plinko-frenzy",
+      "folder": "plinko-frenzy",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "quiz-star",
+      "folder": "quiz-star",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "tetra-blocks",
+      "folder": "tetra-blocks",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "two-dots-remastered",
+      "folder": "two-dots-remastered",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "bubble-up-endless",
+      "folder": "bubble-up-endless",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "free-birds",
+      "folder": "free-birds",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "jigsaw-casual",
+      "folder": "jigsaw-casual",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "kids-spelling",
+      "folder": "kids-spelling",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "word-haven",
+      "folder": "word-haven",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "shapes-puzzle",
+      "folder": "shapes-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "sport-challenge",
+      "folder": "sport-challenge",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "word-clues",
+      "folder": "word-clues",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "2048-remastered",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "kids-coloring",
+      "folder": "kids-coloring",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "stacky-clown",
+      "folder": "stacky-clown",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "memory-match",
+      "folder": "memory-match",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "parking-way",
+      "folder": "parking-way",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "world-cup-fever",
+      "folder": "world-cup-fever",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dummies-world-cup",
+      "folder": "dummies-world-cup",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fill-pix",
+      "folder": "fill-pix",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "world-puzzle",
+      "folder": "world-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "blastify2",
+      "folder": "blastify2",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "pixel-match",
+      "folder": "pixel-match",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-bottle-flip",
+      "folder": "dd-bottle-flip",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Blumgi_ball",
+      "folder": "Blumgi_ball",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Basketball_Crazy",
+      "folder": "Basketball_Crazy",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Basketball_REAL",
+      "folder": "Basketball_REAL",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "basketball-legends-2020",
+      "folder": "basketball-legends-2020",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "La_Football",
+      "folder": "La_Football",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FootballKick3D",
+      "folder": "FootballKick3D",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Freekick_Football_3D",
+      "folder": "Freekick_Football_3D",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "tooncup",
+      "folder": "tooncup",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "scooer_hero",
+      "folder": "scooer_hero",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "basket-swooshes",
+      "folder": "basket-swooshes",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "subway_surfers_rio",
+      "folder": "subway_surfers_rio",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SubwaySurfers_vegas",
+      "folder": "SubwaySurfers_vegas",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Subway_Surfer_Hongkong",
+      "folder": "Subway_Surfer_Hongkong",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Subway_Surfer_IceIsland",
+      "folder": "Subway_Surfer_IceIsland",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Subway_Surfer_Marrakesh",
+      "folder": "Subway_Surfer_Marrakesh",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "subway-surfers-venice",
+      "folder": "subway-surfers-venice",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "subway-surfers_san-francisco",
+      "folder": "subway-surfers_san-francisco",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "subway-surfers-tokyo",
+      "folder": "subway-surfers-tokyo",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "subway-surfers-winter-holiday",
+      "folder": "subway-surfers-winter-holiday",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Subway-Surfers-Zurich",
+      "folder": "Subway-Surfers-Zurich",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "motox3m4",
+      "folder": "motox3m4",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "motox3m5",
+      "folder": "motox3m5",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "motox3m6",
+      "folder": "motox3m6",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "motox3m3",
+      "folder": "motox3m3",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "motox3m1",
+      "folder": "motox3m1",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "motox3m2",
+      "folder": "motox3m2",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DD-2K-Shoot",
+      "folder": "DD-2K-Shoot",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-blastify",
+      "folder": "dd-blastify",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-pick-it",
+      "folder": "dd-pick-it",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-sand-sort-puzzle",
+      "folder": "dd-sand-sort-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "donut-box",
+      "folder": "donut-box",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "filling-lines",
+      "folder": "filling-lines",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Frontline",
+      "folder": "Frontline",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fruitmas",
+      "folder": "fruitmas",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FruitMaster",
+      "folder": "FruitMaster",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "halloween-knife",
+      "folder": "halloween-knife",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "happy-connect",
+      "folder": "happy-connect",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "match-shapes",
+      "folder": "match-shapes",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "mergefish",
+      "folder": "mergefish",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "merge-push",
+      "folder": "merge-push",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ocho",
+      "folder": "ocho",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "people-onet",
+      "folder": "people-onet",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "pretty-tiles",
+      "folder": "pretty-tiles",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Solitaire",
+      "folder": "solitaire",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "wooden-slide",
+      "folder": "wooden-slide",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "xmas-tiles",
+      "folder": "xmas-tiles",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "2048-cards",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "blocks8",
+      "folder": "blocks8",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "bridges",
+      "folder": "bridges",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Circles",
+      "folder": "Circles",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "colored-bricks",
+      "folder": "colored-bricks",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "color-strings",
+      "folder": "color-strings",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "connect-me",
+      "folder": "connect-me",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "connect-merge",
+      "folder": "connect-merge",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-alpha-balls",
+      "folder": "dd-alpha-balls",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fools-match",
+      "folder": "fools-match",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "american-football-challenge",
+      "folder": "american-football-challenge",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "awaken-the-ocean",
+      "folder": "awaken-the-ocean",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "basket-slide",
+      "folder": "basket-slide",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "blend-fruits",
+      "folder": "blend-fruits",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Blocky",
+      "folder": "Blocky",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CubeJump",
+      "folder": "CubeJump",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-knots",
+      "folder": "dd-knots",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dd-pizza-pickup",
+      "folder": "dd-pizza-pickup",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "disk-rush",
+      "folder": "disk-rush",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dotted-fill",
+      "folder": "dotted-fill",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DrawIn",
+      "folder": "DrawIn",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "dunk-shot",
+      "folder": "dunk-shot",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DunkLine",
+      "folder": "DunkLine",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "equalz",
+      "folder": "equalz",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fill",
+      "folder": "fill",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fire-up",
+      "folder": "fire-up",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FlappyShooter",
+      "folder": "FlappyShooter",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "flip-the-gun",
+      "folder": "flip-the-gun",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "fours",
+      "folder": "fours",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "galaxy-toops",
+      "folder": "galaxy-toops",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "HappyGlass",
+      "folder": "HappyGlass",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "house-paint",
+      "folder": "house-paint",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "jelly-merger",
+      "folder": "jelly-merger",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "knife-hit",
+      "folder": "knife-hit",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ludo",
+      "folder": "ludo",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "mahjong-classic",
+      "folder": "mahjong-classic",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "make7",
+      "folder": "make7",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "match4",
+      "folder": "match4",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "merge-face",
+      "folder": "merge-face",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "mini-golf",
+      "folder": "mini-golf",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "mr-gun",
+      "folder": "mr-gun",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Node",
+      "folder": "Node",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "number-maze",
+      "folder": "number-maze",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "omino",
+      "folder": "omino",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "onet-puzzle",
+      "folder": "onet-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Pattern",
+      "folder": "Pattern",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "plus-puzzle",
+      "folder": "plus-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "pool8",
+      "folder": "pool8",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "push-it",
+      "folder": "push-it",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "puzzle-color",
+      "folder": "puzzle-color",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Release",
+      "folder": "Release",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "rolly-vortex",
+      "folder": "rolly-vortex",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ruin",
+      "folder": "ruin",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "sea-battle",
+      "folder": "sea-battle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "shikaku",
+      "folder": "shikaku",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "shishagon",
+      "folder": "shishagon",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Slices",
+      "folder": "Slices",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "slide",
+      "folder": "slide",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "solitaire-klondike",
+      "folder": "solitaire-klondike",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "sorting-balls",
+      "folder": "sorting-balls",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "space-monsters",
+      "folder": "space-monsters",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "space-shooter",
+      "folder": "space-shooter",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "sporos",
+      "folder": "sporos",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SquArea",
+      "folder": "SquArea",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "sudoku",
+      "folder": "sudoku",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "swipe-cubes",
+      "folder": "swipe-cubes",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TakeOff",
+      "folder": "TakeOff",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "taxi-pick-up",
+      "folder": "taxi-pick-up",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "tendo",
+      "folder": "tendo",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "tiny-cars",
+      "folder": "tiny-cars",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "traffic-tap-puzzle",
+      "folder": "traffic-tap-puzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "two-tiles",
+      "folder": "two-tiles",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "typeshift",
+      "folder": "typeshift",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "word-swipe",
+      "folder": "word-swipe",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "zero21-solitaire",
+      "folder": "zero21-solitaire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "color-tunnel",
+      "folder": "color-tunnel",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "cubito",
+      "folder": "cubito",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "drift-dudes",
+      "folder": "drift-dudes",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "emoji-flow",
+      "folder": "emoji-flow",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "neon-swing",
+      "folder": "neon-swing",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "neon-tower",
+      "folder": "neon-tower",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Penguin_Slide",
+      "folder": "Penguin_Slide",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "tap-tap-dunk",
+      "folder": "tap-tap-dunk",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "words-of-wonders",
+      "folder": "words-of-wonders",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "2048Fusion",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "aktestgunsandbottles1",
+      "folder": "aktestgunsandbottles1",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ArcheryWorldTour",
+      "folder": "ArcheryWorldTour",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BlockDrop",
+      "folder": "BlockDrop",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BlocksPuzzle",
+      "folder": "BlocksPuzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BricksBreaker",
+      "folder": "BricksBreaker",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Bridge",
+      "folder": "bridge",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BubbleTower",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "BubbleWoods",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CandyBubbles",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CannonBalls3D",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CardsoftheUndead",
+      "folder": "CardsOfTheUndead",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CarromClash",
+      "folder": "CarromClash",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CastleCraft",
+      "folder": "CastleCraft",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CheckersLegend",
+      "folder": "checkerslegend",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ClassicSolitaire",
+      "folder": "ClassicSolitaire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ColoringMatch",
+      "folder": "ColoringMatch",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ColorPixelArt",
+      "folder": "ColorPixelArt",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ComfyFarm",
+      "folder": "ComfyFarm",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "CrazyCaves",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DailySolitaire",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DailySudoku",
+      "folder": "Dailysudoku",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DailyWordClimb",
+      "folder": "DailyWordClimb",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DominoBattle",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ElementBlocksTeaser",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FruitCubeBlast",
+      "folder": "FruitCubeBlast",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "GiantAttack",
+      "folder": "GiantAttack",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "GinRummy",
+      "folder": "GinRummy",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "GoldMinerTom",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "GolfAdventures",
+      "folder": "GolfAdventures",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "HexaDungeon",
+      "folder": "hexadungeon",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "HexPuzzle",
+      "folder": "HexPuzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "HoopHero",
+      "folder": "HoopHero",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "IdleExplorers",
+      "folder": "IdleExplorers",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "IdleRestaurants",
+      "folder": "idlerestaurants",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "JewelAcademy",
+      "folder": "jewelacademy",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "JewelBlocks",
+      "folder": "jewelblocks",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "JewelLegend",
+      "folder": "jewellegend",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "JewelMagicXmas",
+      "folder": "JewelMagicXmas",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "JewelPetsMatch",
+      "folder": "JewelPetsMatch",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "JigsawPuzzleDeluxe",
+      "folder": "jigsawpuzzledeluxe",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "LetterLinks",
+      "folder": "LetterLinks",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Mahjong3D",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MahjongSolitaire",
+      "folder": "MahjongSolitaire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MedievalSolitaire",
+      "folder": "MedievalSolitaire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MergeCakes",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MergeDefenders",
+      "folder": "MergeDefenders",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MergeMelons",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "mergethegems",
+      "folder": "mergethegems",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "MinesweeperMania",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "NatureStrikesBack",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "OmNomConnectClassic",
+      "folder": "omnomconnectclassic",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ParkingRush",
+      "folder": "ParkingRush",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PerfectPiano",
+      "folder": "perfectpiano",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PiratePoker",
+      "folder": "PiratePoker",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PocketBattleRoyale",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PocketChampions",
+      "folder": "PocketChampions",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "PuzzlePiecesMerge",
+      "folder": "PuzzlePiecesMerge",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Quest21",
+      "folder": "Quest21",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "QuestBingo",
+      "folder": "QuestBingo",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "RollThisBall3",
+      "folder": "rollthisball3",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SantaMagicXmas",
+      "folder": "santamagicxmas",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SmartyBubbles",
+      "folder": "smartybubbles",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "smartybubbles2",
+      "folder": "smartybubbles2",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SolitaireClassic",
+      "folder": "SolitaireClassic",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SpiderSolitaire",
+      "folder": "SpiderSolitaire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SudokuPlus",
+      "folder": "SudokuPlus",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TileJourney",
+      "folder": "tilejourney",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TilePuzzle",
+      "folder": "TilePuzzle",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Tiletopia",
+      "folder": "Tiletopia",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TotemiaCursedMarbles",
+      "folder": "TotemiaCursedMarbles",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TowerCrash3D",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TrafficTom",
+      "folder": "traffictom",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Train2048",
+      "folder": "Train2048",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "TripeaksSolitaire",
+      "folder": "TripeaksSolitaire",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "UncleAhmed",
+      "folder": "uncleahmed",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "UnparkMe",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "WordSearch",
+      "folder": "WordSearch",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "WordsofMagic",
+      "folder": "WordsofMagic",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "ZumbaOcean",
+      "folder": "zumbaocean",
+      "match": "different_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "banana-meow-run",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SavetheDoge",
+      "folder": "SavetheDoge",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "traffic-surgery",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "1000Blocks",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "DoctorTeeth",
+      "folder": "DoctorTeeth",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "EyeArt",
+      "folder": "EyeArt",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "FashionTailor3D",
+      "folder": "FashionTailor3D",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Screw_Nuts_and_Bolts",
+      "folder": null,
+      "match": "no_match",
+      "hasIconFile": true
+    },
+    {
+      "icon": "SpaDay_Makeup_Artist",
+      "folder": "SpaDay_Makeup_Artist",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Ear_Doctor",
+      "folder": "Ear_Doctor",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Assault_Time",
+      "folder": "Assault_Time",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Stickman_hook_2",
+      "folder": "Stickman_hook_2",
+      "match": "exact_case",
+      "hasIconFile": true
+    },
+    {
+      "icon": "Water_Sorts",
+      "folder": "Water_Sorts",
+      "match": "exact_case",
+      "hasIconFile": true
+    }
+  ],
+  "summary": {
+    "folderCaseConsistency": "84.2%",
+    "iconFileCaseConsistency": "96.7%"
+  }
+}

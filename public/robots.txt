@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /0*/ 
+Disallow: /1*/ 
+Disallow: /2*/ 
+Disallow: /3*/ 
+Disallow: /4*/ 
+Disallow: /5*/ 
+Disallow: /6*/ 
+Disallow: /7*/ 
+Disallow: /8*/ 
+Disallow: /9*/ 
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://blrssco.com/api/sitemap.xml
