@@ -2,8 +2,8 @@
   <footer class="footer">
     <div class="footer-main">
       <div class="footer-left">
-        <img src="/icon.png" alt="BLRSSCOGames Icon" class="footer-icon" />
-        <img src="/logo.png" alt="BLRSSCOGames Logo" class="footer-logo" />
+        <img src="/icon.png" alt="BLRSSCO Icon" class="footer-icon" />
+        <img src="/logo.png" alt="BLRSSCO Logo" class="footer-logo" />
       </div>
       <div class="footer-links">
         <a href="/contact" class="footer-link">Contact Us</a>
@@ -12,9 +12,9 @@
       </div>
     </div>
     <div class="footer-about">
-      <h2>About BLRSSCOGames</h2>
+      <h2>About BLRSSCO</h2>
       <p>
-        At BLRSSCOGames, we believe playing games should be simple, fun, and instant. That's why we built a platform where you can jump into great games right from your browser—no downloads, no sign-ups, no waiting. Just pick a title you like and start playing, whether you're on your phone, tablet, or laptop.<br>
+        At BLRSSCO, we believe playing games should be simple, fun, and instant. That's why we built a platform where you can jump into great games right from your browser—no downloads, no sign-ups, no waiting. Just pick a title you like and start playing, whether you're on your phone, tablet, or laptop.<br>
         We've gathered a wide mix of games to suit all kinds of players. If you like solving problems, our Puzzle Games are perfect for stretching your brain. For fast-paced action and quick competition, check out our .io Games or Shooting Games. Into cars and speed? Our Car Games bring everything from racing to drifting challenges. And if you enjoy open-ended play, our Simulation Games let you run shops, build worlds, or live virtual lives—your way.<br>
         We're always adding fresh content to keep things interesting. The homepage highlights new and trending games, and it's easy to browse by genre or vibe. If you're in the mood to play with someone else, we've got plenty of quick multiplayer games too. Our goal is to make online gaming easy, exciting, and always worth your time.
       </p>

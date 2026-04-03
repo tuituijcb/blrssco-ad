@@ -152,9 +152,9 @@ const buildAppLink = (item: any) => {
 }
 
 useHead({
-  title: 'Free mobile games on BLRSSCOGames',
+  title: 'Free mobile games on BLRSSCO',
   meta: [
-    { name: 'description', content: 'Discover and explore mobile games at BLRSSCOGames.' },
+    { name: 'description', content: 'Discover and explore mobile games at BLRSSCO.' },
     { name: 'robots', content: 'noindex, nofollow' }
   ],
   link: [
@@ -211,7 +211,7 @@ useHead({
 
       <section id="desc">
         <div class="desc-box">
-          Welcome to BLRSSCOGames. Here you can find popular mobile games, explore game details, and jump to official download pages quickly and safely.
+          Welcome to BLRSSCO. Here you can find popular mobile games, explore game details, and jump to official download pages quickly and safely.
         </div>
 
         <div class="questions">
@@ -231,7 +231,7 @@ useHead({
         </div>
 
         <div class="disclaimer">
-          <p>1. BLRSSCOGames does not represent any developer, nor is it the developer of any game.</p>
+          <p>1. BLRSSCO does not represent any developer, nor is it the developer of any game.</p>
           <p>2. App information and assets are for reference purposes.</p>
           <p>3. All trademarks, logos, and brand names belong to their respective owners.</p>
           <p>

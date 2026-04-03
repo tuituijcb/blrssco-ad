@@ -2,13 +2,13 @@
   <div class="privacy-bg">
     <div class="privacy-container">
       <h1>Privacy Policy</h1>
-      <p>Blrsscogames is committed to protecting the privacy of all visitors (the "Users") who use our site and applications.</p>
-      <p>This Privacy Policy (the "Policy") is designed to provide transparency into how blrsscogames.com ("we," "us," or "our") collects, stores, uses and protects your information when you use blrsscogames.com (the "Site" or "Service").</p>
-      <p>This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Service located at https://www.blrsscogames.com/tos.html.</p>
+      <p>BLRSSCO is committed to protecting the privacy of all visitors (the "Users") who use our site and applications.</p>
+      <p>This Privacy Policy (the "Policy") is designed to provide transparency into how blrssco.com ("we," "us," or "our") collects, stores, uses and protects your information when you use blrssco.com (the "Site" or "Service").</p>
+      <p>This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Service located at https://www.blrssco.com/tos.html.</p>
       <h2>ACCEPTANCE OF THIS POLICY</h2>
-      <p>By using the Blrsscogames Site, you agree to observe and be bound by this Privacy Policy and you consent to the processing, collection, use, and disclosure of your information and data in accordance with the terms of this Privacy Policy. Please do not use the Site if you do not agree to this Privacy Policy.</p>
+      <p>By using the BLRSSCO Site, you agree to observe and be bound by this Privacy Policy and you consent to the processing, collection, use, and disclosure of your information and data in accordance with the terms of this Privacy Policy. Please do not use the Site if you do not agree to this Privacy Policy.</p>
       <h2>CHANGES TO THIS PRIVACY POLICY</h2>
-      <p>The Privacy Policy is available at https://www.blrsscogames.com/privacy.html, you may read the full text of the Privacy Policy whenever you want. We may make changes to this Policy as we update or expand our Services. We will notify you of any material changes to this Privacy Policy by means of a notice on our Services in advance of the effective date of the changes. If you do not agree to the changes, you should discontinue your use of the Services prior to the time the modified Policy takes effect. If you continue using the Services after the modified Policy takes effect, you will be bound by the modified Policy.</p>
+      <p>The Privacy Policy is available at https://www.blrssco.com/privacy.html, you may read the full text of the Privacy Policy whenever you want. We may make changes to this Policy as we update or expand our Services. We will notify you of any material changes to this Privacy Policy by means of a notice on our Services in advance of the effective date of the changes. If you do not agree to the changes, you should discontinue your use of the Services prior to the time the modified Policy takes effect. If you continue using the Services after the modified Policy takes effect, you will be bound by the modified Policy.</p>
       <h2>Personal Data Collected</h2>
       <p>When you visit our Website, we collect certain information related to your device, such as your IP address, what pages you visit on our Website, whether you were referred to by another website, and at what time you accessed our Website.</p>
       <p>We do not collect any other type of personal data. If you are accessing our website through a social media account, please refer to the social media provider's privacy policy for information regarding their data collection.</p>

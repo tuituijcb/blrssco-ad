@@ -23,12 +23,12 @@ export default defineNuxtConfig({
       },
       meta: [
         { name: 'robots', content: 'index, follow' },
-        { name: 'author', content: 'AllofAPP' },
+        { name: 'author', content: 'BLRSSCO' },
         { name: 'theme-color', content: '#667eea' },
-        { property: 'og:site_name', content: 'AllofAPP' },
+        { property: 'og:site_name', content: 'BLRSSCO' },
         { property: 'og:locale', content: 'en_US' },
-        { name: 'twitter:site', content: '@allofapp' },
-        { name: 'twitter:creator', content: '@allofapp' }
+        { name: 'twitter:site', content: '@blrssco' },
+        { name: 'twitter:creator', content: '@blrssco' }
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/icon.png' },

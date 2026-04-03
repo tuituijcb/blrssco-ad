@@ -550,12 +550,12 @@ usePrefixLink()
             <article class="card disclaimer-card">
               <h5>Disclaimer</h5>
               <ol>
-                <li>BLRSSCOGames does not represent any developer, nor is it the developer of any App or game.</li>
-                <li>BLRSSCOGames provide screenshots, historical version Apk, links and other information, which we collected from Google Play. We will also add our own reviews to provide users with more information to choose.</li>
+                <li>BLRSSCO does not represent any developer, nor is it the developer of any App or game.</li>
+                <li>BLRSSCO provide screenshots, historical version Apk, links and other information, which we collected from Google Play. We will also add our own reviews to provide users with more information to choose.</li>
                 <li>All trademarks, registered trademarks, product names and company names or logos appearing on the site are the property of their respective owners.</li>
-                <li>BLRSSCOGames abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that complies with the DMCA and other applicable laws.</li>
+                <li>BLRSSCO abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that complies with the DMCA and other applicable laws.</li>
                 <li>We guarantee the security of apk files downloaded from our site and also provide the official download link at Google Play Store and App Store.</li>
-                <li>If you are the owner or copyright representative and want to delete your information, please contact us <a href="mailto:contact@yapigames.com">contact@yapigames.com</a>.</li>
+                <li>If you are the owner or copyright representative and want to delete your information, please contact us <a href="mailto:contact@blrssco.com">contact@blrssco.com</a>.</li>
                 <li>All the information on this website is strictly observed all the terms and conditions of <a href="https://support.google.com/adspolicy/answer/6020954" target="_blank" rel="noopener noreferrer">Google Ads Advertising policies</a> and <a href="https://www.google.com/about/unwanted-software-policy.html" target="_blank" rel="noopener noreferrer">Google Unwanted Software policy</a>.</li>
               </ol>
             </article>
@@ -572,9 +572,9 @@ usePrefixLink()
         <a :href="`/${prefix}/terms-of-service`">Legal Terms</a>
       </div>
       <div class="footer-about">
-        <h3>About BLRSSCOGames</h3>
+        <h3>About BLRSSCO</h3>
         <p>
-          At BLRSSCOGames, we believe playing games should be simple, fun and instant. Discover games and play right in your browser.
+          At BLRSSCO, we believe playing games should be simple, fun and instant. Discover games and play right in your browser.
         </p>
       </div>
     </footer>
