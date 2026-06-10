@@ -1,5 +1,5 @@
 <template>
-  <client-only>
+  <client-only v-if="adsEnabled">
     <div class="adsense-container" :key="`ad-${adSlot}`">
       <ins 
         ref="adElement"
@@ -20,6 +20,12 @@
 </template>
 
 <script setup>
+import { trackAdClick, untrackAdClick } from '~/utils/adClickTracker'
+
+const { enableAds } = useRuntimeConfig().public
+const adsEnabled = enableAds !== false && enableAds !== 'false'
+const adElement = ref(null)
+
 const props = defineProps({
   adSlot: { type: String, required: true },
   adFormat: { type: String, default: 'auto' },
@@ -28,6 +34,29 @@ const props = defineProps({
 })
 
 onMounted(() => {
+  // 动态加载 AdSense script（只加载一次，即使广告位关闭也保留给 Google 验证）
+  if (!document.querySelector('script[src*="adsbygoogle"]')) {
+    const s = document.createElement('script')
+    s.async = true
+    s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6686541399117634'
+    s.crossOrigin = 'anonymous'
+    document.head.appendChild(s)
+  }
+
+  if (!adsEnabled) return
+
+  if (adElement.value) {
+    trackAdClick(adElement.value, props.adSlot, (slot) => {
+      window.dataLayer = window.dataLayer || []
+      window.dataLayer.push({
+        event: 'i_c',
+        event_category: 'IC',
+        event_action: 'i_c',
+        ad_slot: slot,
+      })
+    })
+  }
+
   // 如果AdSense脚本已加载但广告位没有被处理，手动触发一次
   if (window.adsbygoogle && window.adsbygoogle.loaded) {
     setTimeout(() => {
@@ -40,6 +69,12 @@ onMounted(() => {
         }
       }
     }, 1000)
+  }
+})
+
+onBeforeUnmount(() => {
+  if (adElement.value) {
+    untrackAdClick(adElement.value)
   }
 })
 </script>

@@ -8,14 +8,21 @@
 </template>
 
 <script setup>
+import { initVignetteTracker } from '~/utils/vignetteTracker'
+
+onMounted(() => {
+  initVignetteTracker()
+})
+
 // SEO 基础配置
 useHead({
-  titleTemplate: '%s | H5 Games Hub',
+  // 全局 template 关闭，由各页面完全控制 title
+  titleTemplate: null,
   meta: [
     { name: 'description', content: 'Discover and play amazing HTML5 games online. Free browser games for PC, mobile and tablet.' },
     { name: 'keywords', content: 'HTML5 games,browser games,free games,online games,mobile games' },
     { property: 'og:type', content: 'website' },
-    { property: 'og:site_name', content: 'H5 Games Hub' }
+    { property: 'og:site_name', content: 'BLRSSCO' }
   ],
   link: [
     { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
