@@ -50,7 +50,7 @@ function monitorVignetteClick() {
     clickFired = true
     window.dataLayer = window.dataLayer || []
     window.dataLayer.push({
-      event: 'vignette_click',
+      event: 'v_c',
       event_category: 'IC',
       event_action: 'vig_c',
     })
