@@ -47,10 +47,6 @@ onMounted(() => {
 
   if (adElement.value) {
     trackAdClick(adElement.value, props.adSlot, (slot) => {
-      // Version 37 still runs the legacy GTM detector. Avoid duplicate events
-      // until Version 38 pauses that tag and the source tracker takes over.
-      if (window.IframeOnClick) return
-
       window.dataLayer = window.dataLayer || []
       window.dataLayer.push({
         event: 'i_c',
