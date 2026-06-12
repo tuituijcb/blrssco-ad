@@ -25,6 +25,7 @@ import { trackAdClick, untrackAdClick } from '~/utils/adClickTracker'
 const { enableAds } = useRuntimeConfig().public
 const adsEnabled = enableAds !== false && enableAds !== 'false'
 const adElement = ref(null)
+let trackedElement = null
 
 const props = defineProps({
   adSlot: { type: String, required: true },
@@ -32,6 +33,29 @@ const props = defineProps({
   style: { type: String, default: 'display:block' },
   responsive: { type: [Boolean, String], default: true }
 })
+
+function attachAdTracker() {
+  if (!adsEnabled || !adElement.value || trackedElement === adElement.value) return
+
+  if (trackedElement) {
+    untrackAdClick(trackedElement)
+  }
+
+  trackedElement = adElement.value
+  trackAdClick(trackedElement, props.adSlot, (slot) => {
+    window.dataLayer = window.dataLayer || []
+    window.dataLayer.push({
+      event: 'i_c',
+      event_category: 'IC',
+      event_action: 'i_c',
+      ad_slot: slot,
+    })
+  })
+}
+
+watch(adElement, () => {
+  nextTick(attachAdTracker)
+}, { flush: 'post' })
 
 onMounted(() => {
   // 动态加载 AdSense script（只加载一次，即使广告位关闭也保留给 Google 验证）
@@ -45,17 +69,7 @@ onMounted(() => {
 
   if (!adsEnabled) return
 
-  if (adElement.value) {
-    trackAdClick(adElement.value, props.adSlot, (slot) => {
-      window.dataLayer = window.dataLayer || []
-      window.dataLayer.push({
-        event: 'i_c',
-        event_category: 'IC',
-        event_action: 'i_c',
-        ad_slot: slot,
-      })
-    })
-  }
+  nextTick(attachAdTracker)
 
   // 如果AdSense脚本已加载但广告位没有被处理，手动触发一次
   if (window.adsbygoogle && window.adsbygoogle.loaded) {
@@ -73,8 +87,9 @@ onMounted(() => {
 })
 
 onBeforeUnmount(() => {
-  if (adElement.value) {
-    untrackAdClick(adElement.value)
+  if (trackedElement) {
+    untrackAdClick(trackedElement)
+    trackedElement = null
   }
 })
 </script>
