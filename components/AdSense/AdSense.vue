@@ -34,14 +34,21 @@ const props = defineProps({
   responsive: { type: [Boolean, String], default: true }
 })
 
+function getAdElement() {
+  if (adElement.value) return adElement.value
+  if (typeof document === 'undefined') return null
+  return document.querySelector(`ins.adsbygoogle[data-ad-slot="${props.adSlot}"]`)
+}
+
 function attachAdTracker() {
-  if (!adsEnabled || !adElement.value || trackedElement === adElement.value) return
+  const element = getAdElement()
+  if (!adsEnabled || !element || trackedElement === element) return
 
   if (trackedElement) {
     untrackAdClick(trackedElement)
   }
 
-  trackedElement = adElement.value
+  trackedElement = element
   trackAdClick(trackedElement, props.adSlot, (slot) => {
     window.dataLayer = window.dataLayer || []
     window.dataLayer.push({
@@ -70,6 +77,9 @@ onMounted(() => {
   if (!adsEnabled) return
 
   nextTick(attachAdTracker)
+  setTimeout(attachAdTracker, 500)
+  setTimeout(attachAdTracker, 1500)
+  setTimeout(attachAdTracker, 3000)
 
   // 如果AdSense脚本已加载但广告位没有被处理，手动触发一次
   if (window.adsbygoogle && window.adsbygoogle.loaded) {
