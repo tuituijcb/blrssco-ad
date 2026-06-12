@@ -1,8 +1,7 @@
 <template>
   <client-only v-if="adsEnabled">
     <div class="adsense-container" :key="`ad-${adSlot}`">
-      <ins 
-        ref="adElement"
+      <ins
         class="adsbygoogle"
         :style="style"
         data-ad-client="ca-pub-6686541399117634"
@@ -20,12 +19,8 @@
 </template>
 
 <script setup>
-import { trackAdClick, untrackAdClick } from '~/utils/adClickTracker'
-
 const { enableAds } = useRuntimeConfig().public
 const adsEnabled = enableAds !== false && enableAds !== 'false'
-const adElement = ref(null)
-let trackedElement = null
 
 const props = defineProps({
   adSlot: { type: String, required: true },
@@ -33,36 +28,6 @@ const props = defineProps({
   style: { type: String, default: 'display:block' },
   responsive: { type: [Boolean, String], default: true }
 })
-
-function getAdElement() {
-  if (adElement.value) return adElement.value
-  if (typeof document === 'undefined') return null
-  return document.querySelector(`ins.adsbygoogle[data-ad-slot="${props.adSlot}"]`)
-}
-
-function attachAdTracker() {
-  const element = getAdElement()
-  if (!adsEnabled || !element || trackedElement === element) return
-
-  if (trackedElement) {
-    untrackAdClick(trackedElement)
-  }
-
-  trackedElement = element
-  trackAdClick(trackedElement, props.adSlot, (slot) => {
-    window.dataLayer = window.dataLayer || []
-    window.dataLayer.push({
-      event: 'i_c',
-      event_category: 'IC',
-      event_action: 'i_c',
-      ad_slot: slot,
-    })
-  })
-}
-
-watch(adElement, () => {
-  nextTick(attachAdTracker)
-}, { flush: 'post' })
 
 onMounted(() => {
   // 动态加载 AdSense script（只加载一次，即使广告位关闭也保留给 Google 验证）
@@ -76,11 +41,6 @@ onMounted(() => {
 
   if (!adsEnabled) return
 
-  nextTick(attachAdTracker)
-  setTimeout(attachAdTracker, 500)
-  setTimeout(attachAdTracker, 1500)
-  setTimeout(attachAdTracker, 3000)
-
   // 如果AdSense脚本已加载但广告位没有被处理，手动触发一次
   if (window.adsbygoogle && window.adsbygoogle.loaded) {
     setTimeout(() => {
@@ -93,13 +53,6 @@ onMounted(() => {
         }
       }
     }, 1000)
-  }
-})
-
-onBeforeUnmount(() => {
-  if (trackedElement) {
-    untrackAdClick(trackedElement)
-    trackedElement = null
   }
 })
 </script>
